@@ -237,7 +237,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-<!--
   # _posts
   - scope:
       path: ""
@@ -265,7 +264,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
--->
   # _publications
   - scope:
       path: ""

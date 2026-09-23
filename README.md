@@ -6,4 +6,4 @@ Welcome to visit [https://mkang315.github.io](https://mkang315.github.io).
 This repository is released under the MIT License (MIT). Please view the [LICENSE](https://github.com/mkang315/mkang315.github.io/blob/master/LICENSE) file for more information.
 
 ## Copyright Notice
-Powered by [Academic Pages](https://github.com/academicpages/academicpages.github.io).
+Powered by [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes) & [Academic Pages template](https://github.com/academicpages/academicpages.github.io).
